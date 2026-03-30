@@ -34,7 +34,6 @@ Malformed time values produce `[Warning]` messages so the rest of the scan alway
 
 ## 📸 Demo
 
-> **To add your screenshot:** run `streamlit run app.py`, take a screenshot of the running app, save it as `demo.png` in this folder, then replace this block with `![PawPal+ demo](demo.png)`.
 <a href="demo.png" target="_blank"><img src='demo.png' title='PawPal App' width='' alt='PawPal App' class='center-block' /></a>.
 <!-- ![PawPal+ demo](demo.png) -->
 
